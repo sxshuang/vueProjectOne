@@ -1,0 +1,12 @@
+{
+    "status": 0,
+    "message": [{
+        "id": 101,
+        "title": "火箭101",
+        "add_time": "2019-01-30T20:30:50.000Z",
+        "goods_no": "SD3976042311",
+        "stock_quantity": 20,
+        "market_price": 269,
+        "sell_price": 199
+    }]
+}
